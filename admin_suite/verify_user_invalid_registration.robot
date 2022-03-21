@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   This suite handles test case related to Admin
+Documentation   This suite handles test case related to invalid Admin
 
 Resource   ../resource/base/common_functionality.resource
 

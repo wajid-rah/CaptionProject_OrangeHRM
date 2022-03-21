@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   This suite handles test case related to My Info Immigration
+Documentation   This suite handles test case related to My Info Add Dependent
 Library   DataDriver    file=../test_data/orange_data.xlsx      sheet_name=AddDependent
 Resource   ../resource/base/common_functionality.resource
 
